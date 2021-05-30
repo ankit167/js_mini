@@ -10,3 +10,6 @@ You are provided with a list of items for your Grocery List. You want to display
 
 #### 3. shopping_cart
 Create a dynamic shopping list. Take the list item and the price from the user and further find the grand total. 
+
+#### 4. word_count
+Count number of words in the input field dynamically. Ignore whitespaces.
